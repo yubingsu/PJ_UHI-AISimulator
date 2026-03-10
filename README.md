@@ -17,8 +17,8 @@
 - 행정동·월 단위 서울시 LST 변화의 영향 요인을 정량적으로 해석하여 정책 의사결정자의 맞춤형 열섬 대응 전략 도출
 
 ## 실행 환경
-* Python 3.x
-* Pandas, Scikit-learn, XGBoost, LightGBM, SHAP
+* Python 3.9 ~ 3.11
+* Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, SHAP
 
 ## 데이터 출처
 | 변수 구분             | 변수명                                                                 | 출처                                                                 |
